@@ -1,0 +1,20 @@
+interpret lang like HTML--run in browser
+render from TOP-LEFT side
+
+
+
+meta means Data about data
+
+Apache 2.0
+NGINX
+
+staic & dynamic website
+wordpress prerequisites
+difference between static and dynamic website
+htaccess
+
+chrome using core
+chrome using too much memory
+
+overview of the roadmap of the course.
+basic structure of web pages.
