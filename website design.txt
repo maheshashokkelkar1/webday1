@@ -2,6 +2,7 @@ interpret lang like HTML--run in browser
 render from TOP-LEFT side
 
 Hi this is Avadhut
+Hi I am Mahesh
 
 meta means Data about data
 
@@ -17,4 +18,5 @@ chrome using core
 chrome using too much memory
 
 overview of the roadmap of the course.
+
 basic structure of web pages.
